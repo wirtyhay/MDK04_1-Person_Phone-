@@ -9,7 +9,7 @@ public class Main {
         v.move();
         b.talk();
         b.move();
-        a.receiveCall("Влад:", "+79104565915");
+        a.receiveCall("Костя:", "+79157565915");
 
     }
 }
